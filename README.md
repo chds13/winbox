@@ -2,7 +2,7 @@
 
 Winbox via wine based on Ubuntu image.
 Winbox is a native Win32 configuration utility for Mikrotik Router OS.
-Winbox v3.19
+Winbox v3.20
 
 ---
 
